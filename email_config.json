@@ -1,0 +1,7 @@
+{
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "bloodbanka485@gmail.com",
+    "sender_password": "ufbj ofal inwr tioo",
+    "use_tls": true
+}
